@@ -1,0 +1,14 @@
+C:\GeekBrains\Sem_1\bin\Debug\net8.0\Sem_1.exe
+C:\GeekBrains\Sem_1\bin\Debug\net8.0\Sem_1.deps.json
+C:\GeekBrains\Sem_1\bin\Debug\net8.0\Sem_1.runtimeconfig.json
+C:\GeekBrains\Sem_1\bin\Debug\net8.0\Sem_1.dll
+C:\GeekBrains\Sem_1\bin\Debug\net8.0\Sem_1.pdb
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.AssemblyInfoInputs.cache
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.AssemblyInfo.cs
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.dll
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\refint\Sem_1.dll
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.pdb
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\Sem_1.genruntimeconfig.cache
+C:\GeekBrains\Sem_1\obj\Debug\net8.0\ref\Sem_1.dll
