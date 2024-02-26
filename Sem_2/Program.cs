@@ -31,3 +31,18 @@
 // {
 //     Console.WriteLine ("Третьей цифры нет");
 // }
+
+// кратность чисел.
+
+int a = 5;
+int b = 2;
+
+if (a % b == 0)
+{
+    Console.WriteLine ($"{a} кратно (делится без остатка) числу {b}");
+}
+
+else
+{
+    Console.WriteLine ($" остаток от {a} / {b} = {a % b}");
+}
